@@ -18,4 +18,4 @@ npx skills add https://github.com/happy-marriage/skills
 
 ## Answer Examples
 
-https://github.com/happy-marriage/examples
+[Click here to see answer examples](https://github.com/happy-marriage/examples)

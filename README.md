@@ -20,4 +20,4 @@ npx skills add https://github.com/happy-marriage/skills
 
 ## 回答示例
 
-https://github.com/happy-marriage/examples
+[点这里看回答示例](https://github.com/happy-marriage/examples)
