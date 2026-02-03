@@ -12,7 +12,7 @@ Based on Dr. John Gottman's 40 years of research from "The Seven Principles for 
 ## Install the Skill
 
 ```bash
-npx skills add https://github.com/warmeaf/happy-marriage-skills
+npx skills add https://github.com/happy-marriage/skills
 ```
 
 ## Usage Examples

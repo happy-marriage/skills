@@ -14,7 +14,7 @@
 ## 安装技能
 
 ```bash
-npx skills add https://github.com/warmeaf/happy-marriage-skills
+npx skills add https://github.com/happy-marriage/skills
 ```
 
 ## 使用示例
